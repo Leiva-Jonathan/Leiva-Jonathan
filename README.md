@@ -1,4 +1,4 @@
-### Olá! Meu eu sou o Leiva Jonathan, desenvolvedor Front End!👨‍💻🖱❤
+### Olá! Meu eu sou o Leiva Jonathan, desenvolvedor Full Stack!👨‍💻🖱❤
  
  <div align="center">
   <a href="https://github.com/Leiva-Jonathan">
